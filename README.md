@@ -155,10 +155,6 @@ Modify the `characters.json` file in the data directory to add new pre-defined c
 ### Customizing the UI
 Edit the HTML templates in the `templates` directory to customize the user interface.
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## 🙏 Acknowledgements
 
 - [FastAPI](https://fastapi.tiangolo.com/)
