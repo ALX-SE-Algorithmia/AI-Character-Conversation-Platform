@@ -1,0 +1,18 @@
+<html>
+  <head>
+    <title>Conversations</title>
+  </head>
+  <body>
+    <h1>Conversations Page</h1>
+    <ul>
+      {% for conv in conversations %}
+        <li>
+          ID: {{ conv.id }} – Chat with: {{ conv.character_name }}<br>
+          Last Activity: {{ conv.last_activity }}<br>
+          Preview: {{ conv.preview }}
+        </li>
+      {% endfor %}
+    </ul>
+    <p>User ID: {{ user_id }}</p>
+  </body>
+</html>

@@ -1,0 +1,17 @@
+<html>
+  <head>
+    <title>Create Character</title>
+  </head>
+  <body>
+    <h1>Create Character Page</h1>
+    <form action="/api/create-character" method="post">
+      <label>Topic:</label>
+      <input type="text" name="topic" placeholder="Enter topic" /><br>
+      <label>Traits (comma separated):</label>
+      <input type="text" name="traits" placeholder="Enter traits" /><br>
+      <input type="hidden" name="user_id" value="{{ user_id }}" />
+      <button type="submit">Create Character</button>
+    </form>
+    <p>User ID: {{ user_id }}</p>
+  </body>
+</html>

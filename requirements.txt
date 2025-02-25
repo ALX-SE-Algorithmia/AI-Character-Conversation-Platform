@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pydantic
+groq
+langchain
+langchain-groq
+langchain-community
+langchain-huggingface
+faiss-cpu
+python-dotenv
+pandas
+jinja2
+transformers
+torch
+python-multipart
