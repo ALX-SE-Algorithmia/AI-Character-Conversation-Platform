@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hello over WS",
+      "timestamp": "2025-08-18T17:42:09.413797"
+    },
+    {
+      "role": "assistant",
+      "content": "[stub] You said: Hello over WS",
+      "timestamp": "2025-08-18T17:42:09.413813"
+    }
+  ],
+  "last_activity": "2025-08-18T17:42:09.413816",
+  "character_id": "coach",
+  "user_id": "ws_user",
+  "active": true
+}
