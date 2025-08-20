@@ -1,0 +1,18 @@
+{
+  "messages": [
+    {
+      "role": "user",
+      "content": "Hi via test",
+      "timestamp": "2025-08-18T17:42:09.400678"
+    },
+    {
+      "role": "assistant",
+      "content": "[stub] You said: Hi via test",
+      "timestamp": "2025-08-18T17:42:09.400694"
+    }
+  ],
+  "last_activity": "2025-08-18T17:42:09.400697",
+  "character_id": "coach",
+  "user_id": "u1",
+  "active": true
+}

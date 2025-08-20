@@ -1,2 +1,8 @@
+# Ignore virtual environment directories
+venv/
 .venv/
-conversation_platform.log/
+
+# Ignore log file
+conversation_platform.log
+
+.env

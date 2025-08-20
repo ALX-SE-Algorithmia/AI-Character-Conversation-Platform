@@ -13,3 +13,7 @@ jinja2
 transformers
 torch
 python-multipart
+requests
+pytest
+pydantic-settings
+pytest-cov
